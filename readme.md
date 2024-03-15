@@ -13,7 +13,5 @@ O repositório está organizado da seguinte forma:
     - [Exercicios](./exercicios)
       - [Lista 1](./exercicios/lista_1)
         - q01.c
-        - ...
       - [Lista 2](./exercicios/lista_2)
         - q01.c
-        - ...
